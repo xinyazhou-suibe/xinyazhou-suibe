@@ -13,6 +13,11 @@
 
 - GitHub：https://github.com/xinyazhou-suibe
 
+## 课程项目示例
 | 时间 | 身份 | 机构 |
 |---|---|---|
 | 2025–2027 | 研究生 | 上海对外经贸大学数字经济 |
+
+## 链接
+[m420-suibe-org/homework](https://github.com/m420-suibe-org/homework)
+[survey-project](https://github.com/m420-suibe-org/survey-project)
