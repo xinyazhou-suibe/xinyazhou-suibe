@@ -19,8 +19,3 @@
 
 ## 链接
 [m420-suibe-org/homework](https://github.com/m420-suibe-org/homework)
-<<<<<<< HEAD
-[survey-project](https://github.com/m420-suibe-org/survey-project)
-=======
-[survey-project](https://github.com/m420-suibe-org/survey-project)
->>>>>>> fdafdd07334f05074cebe923d0747a0672dee880
